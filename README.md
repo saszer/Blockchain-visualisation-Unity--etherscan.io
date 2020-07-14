@@ -7,7 +7,8 @@ trx hash , block number, gas, address to and fro , etc..
 Live Ping - Live Data refresh and chain evolvement.. 
 
 for development: 
-https://rebrand.ly/akashick-mainnet 
+https://rebrand.ly/akashick-mainnet ||||||
+
 https://github.com/AkashickVerse
 
  ![alt text](https://github.com/saszer/Blockchain-visualisation-Unity--etherscan.io/blob/master/ethherscanapireply.PNG?raw=true)
